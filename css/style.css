@@ -39,4 +39,11 @@
 				border-radius: 9px;
 			}
 
-			
+			.paginacion ul li a:hover{
+				background: #037e8c;
+			}
+
+			.paginacion ul li .active{
+				background: #037e8c;
+				font-weight: bold;
+			}	
